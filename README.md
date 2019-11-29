@@ -1,2 +1,2 @@
 # PHP_Basics
-All codes i have written during my pjp learning
+All codes i have written during my php learning
